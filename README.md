@@ -40,12 +40,13 @@ Don't forget to include you poll_test and poll_dev folders in your .gitignore or
 ## Tests
 
 From the dev environment activated run:
-
+```
 python manage.py runserver
-
+```
 In another console from the test environment run:
-
+```
 python functional_tests/*.py
+```
 
 
 ## Contributors
