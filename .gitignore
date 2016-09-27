@@ -2,3 +2,5 @@ db.sqlite3
 mysite/__pycache__
 .idea/*
 polls/__pycache__/
+poll_dev/
+poll_test/
