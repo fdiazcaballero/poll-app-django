@@ -1,2 +1,4 @@
 db.sqlite3
 mysite/__pycache__
+.idea/*
+polls/__pycache__/
