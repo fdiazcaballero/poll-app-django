@@ -56,4 +56,4 @@ Fernando Diaz Caballero
 
 ## License
 
-Apache
+GNU GENERAL PUBLIC LICENSE Version 3
