@@ -4,3 +4,4 @@ mysite/__pycache__
 polls/__pycache__/
 poll_dev/
 poll_test/
+polls/migrations/__pycache__/
